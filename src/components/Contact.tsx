@@ -16,14 +16,14 @@ const Contact = () => {
       icon: <Linkedin className="h-5 w-5" />,
       label: "LinkedIn",
       value: "Connect with me",
-      href: "https://linkedin.com/in/ujain-ketul",
+      href: "https://www.linkedin.com/in/ketul-ujain-9360b8252/",
       color: "from-blue-500 to-blue-600"
     },
     {
       icon: <Github className="h-5 w-5" />,
       label: "GitHub",
       value: "View my projects",
-      href: "https://github.com/ujain-ketul",
+      href: "https://github.com/ke2u1",
       color: "from-gray-700 to-gray-800"
     }
   ];
