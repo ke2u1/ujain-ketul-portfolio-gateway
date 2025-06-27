@@ -39,7 +39,7 @@ const About = () => {
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <p className="text-lg text-slate-600 leading-relaxed">
-              As a driven Computer Engineering undergraduate, I am passionate about crafting 
+              As a driven Computer Engineering graduate, I am passionate about crafting 
               secure, responsive, and user-friendly web applications. My expertise spans both 
               front-end (React.js, Tailwind CSS) and back-end (Node.js, MongoDB) technologies, 
               enabling me to build full-stack solutions.
