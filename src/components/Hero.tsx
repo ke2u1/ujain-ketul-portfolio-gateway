@@ -48,7 +48,7 @@ const Hero = () => {
               </Button>
               <Button 
                 variant="outline"
-                onClick={() => window.open('https://linkedin.com/in/ujain-ketul', '_blank')}
+                onClick={() => window.open('https://www.linkedin.com/in/ketul-ujain-9360b8252/', '_blank')}
                 className="border-2 border-blue-600 text-blue-600 hover:bg-blue-600 hover:text-white px-8 py-3 rounded-lg font-semibold transition-all duration-200"
               >
                 Connect on LinkedIn
