@@ -143,7 +143,7 @@ const Contact = () => {
         {/* Footer */}
         <div className="text-center mt-16 pt-8 border-t border-white/20">
           <p className="text-slate-300">
-            © 2024 Ujain Ketul. Made with ❤️ and lots of ☕
+            © 2025 Ujain Ketul. Made with ❤️ and lots of ☕
           </p>
         </div>
       </div>
