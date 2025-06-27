@@ -4,8 +4,7 @@ import { Calendar, MapPin, Award, CheckCircle } from 'lucide-react';
 
 const Experience = () => {
   const achievements = [
-    "Built dynamic website with integrated front-end and back-end functionalities",
-    "Successfully showcased products and facilitated transactions",
+    "Built dynamic website with integrated front-end ",
     "Completed all assigned tasks within deadline",
     "Earned Letter of Recommendation (LOR) for outstanding contributions",
     "Received certificate of completion"
@@ -43,7 +42,7 @@ const Experience = () => {
                   <h4 className="text-lg font-semibold text-slate-800 mb-3">Role Description</h4>
                   <p className="text-slate-600 leading-relaxed">
                     Learned and applied web development skills by building a dynamic website. 
-                    Integrated front-end and back-end functionalities to showcase products and 
+                    Integrated front-end functionalities to showcase products and 
                     facilitate transactions. Successfully completed tasks, earning recognition 
                     through a Letter of Recommendation and completion certificate.
                   </p>
