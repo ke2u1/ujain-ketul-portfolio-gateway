@@ -23,7 +23,7 @@ const Contact = () => {
       icon: <Github className="h-5 w-5" />,
       label: "GitHub",
       value: "View my projects",
-      href: "https://github.com/ujain-ketul",
+      href: "https://github.com/ke2u1",
       color: "from-gray-700 to-gray-800"
     }
   ];
